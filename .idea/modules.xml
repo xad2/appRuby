@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LOKO.iml" filepath="$PROJECT_DIR$/.idea/LOKO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../appRuby1/.idea/LOKO.iml" filepath="$PROJECT_DIR$/../appRuby1/.idea/LOKO.iml" />
     </modules>
   </component>
 </project>
